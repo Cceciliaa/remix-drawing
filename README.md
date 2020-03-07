@@ -11,5 +11,5 @@ I also added some fish to the scene and had them jumping forward. The fish will 
 ## Link to the work
 [Here](http://i6.cims.nyu.edu/~zc1151/remix-drawing/index.html) is the link to my remix work.
 
-### Additional Note
+## Additional Note
 Due to the different features of the Browsers, this work works optimally in Firefox.
